@@ -1,5 +1,4 @@
-# Data-Analysis-with-SQL
-## Project portfolio of data analysis, showcasing both fundamental and advanced SQL skills:
+# Project portfolio of data analysis, showcasing both fundamental and advanced SQL skills:
 ## advanced_mysql_final_project
 - This project involves analyzing various aspects of an online business, such as session and order volume trends, efficiency improvements in conversion rates and revenue, channel-specific orders and conversion rates, product-related revenue and margin analysis, click-through rates for product pages, and cross-selling effectiveness for different products, utilizing SQL queries and data processing techniques.
 ## advanced_mysql_midcourse_project:
